@@ -2,7 +2,7 @@
 Hey! here, is myself
 <div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
+</div>
   
 
 ### <div align="center"></div>  
@@ -17,7 +17,7 @@ Hey! here, is myself
 - ❓ Ask me about anything related to C++ and web technology  
   
 
--   
+   
   
 
 <br/>  
@@ -125,7 +125,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+/*<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>*/  
 
 <br/>  
 
