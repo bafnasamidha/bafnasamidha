@@ -1,4 +1,4 @@
-# bafnsamidha
+# bafnasamidha
 Hey! here, is myself
 <div align="center">
 <img src="" align="center" style="width: 100%" />
